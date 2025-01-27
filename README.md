@@ -10,6 +10,13 @@
 
 ## Objectif : maîtriser l'intégration Web et le positionnement précis des éléments
 
-Développer pour le web et les médias numériques
+Développer pour le web et les médias numériques :
+
+- intégration,
+- mise en page,
+- transition,
+- animation,
+- interaction,
+- accessibilité
 
 AC14.02 | Produire des pages Web fluides incluant un balisage sémantique efficace et des interactions simples
