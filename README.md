@@ -23,7 +23,7 @@ AC14.02 | Produire des pages Web fluides incluant un balisage sémantique effica
 
 ## Place Holder
 
-https://unsplash.it
+https://placeholderimage.eu
 
 http://picsum.photos
 
@@ -40,7 +40,8 @@ https://logoipsum.com/
 Exemple d'utilisation
 
   - https://picsum.photos/480/320/?random
-  - https://source.unsplash.com/800x600/?design,graphic=1
+  - https://placeholderimage.eu/api/nature/800/600
+
 
 ## LINKS
 
