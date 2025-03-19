@@ -24,12 +24,19 @@ AC14.02 | Produire des pages Web fluides incluant un balisage sémantique effica
 ## Place Holder
 
 https://unsplash.it
+
 http://picsum.photos
+
 https://www.pexels.com
+
 https://i.pravatar.cc/{size}
+
 http://lorempixel.com/400/200
+
 https://doodleipsum.com/
+
 https://logoipsum.com/
+
 Exemple d'utilisation
 
   - https://picsum.photos/480/320/?random
