@@ -21,6 +21,20 @@ Développer pour le web et les médias numériques :
 
 AC14.02 | Produire des pages Web fluides incluant un balisage sémantique efficace et des interactions simples
 
+## Place Holder
+
+https://unsplash.it
+http://picsum.photos
+https://www.pexels.com
+https://i.pravatar.cc/{size}
+http://lorempixel.com/400/200
+https://doodleipsum.com/
+https://logoipsum.com/
+Exemple d'utilisation
+
+  - https://picsum.photos/480/320/?random
+  - https://source.unsplash.com/800x600/?design,graphic=1
+
 ## LINKS
 
 ### Grid Layout
